@@ -1,0 +1,72 @@
+[submodule "Biometric-Identification/Libraries/openbr"]
+	path = Biometric-Identification/Libraries/openbr
+	url = https://github.com/biometrics/openbr
+[submodule "ObjectDetection/Libraries/Detectron"]
+	path = ObjectDetection/Libraries/Detectron
+	url = https://github.com/facebookresearch/Detectron
+[submodule "ObjectDetection/Libraries/Mask_RCNN"]
+	path = ObjectDetection/Libraries/Mask_RCNN
+	url = https://github.com/matterport/Mask_RCNN
+[submodule "ObjectDetection/Libraries/powerai-vision-object-detection"]
+	path = ObjectDetection/Libraries/powerai-vision-object-detection
+	url = https://github.com/IBM/powerai-vision-object-detection
+[submodule "FacialRegconition/Examples/home_surveillance"]
+	path = FacialRegconition/Examples/home_surveillance
+	url = https://github.com/BrandonJoffe/home_surveillance
+[submodule "BiosignDetection/Examples/HeartRate/webcam-pulse-detector"]
+	path = BiosignDetection/Examples/HeartRate/webcam-pulse-detector
+	url = https://github.com/thearn/webcam-pulse-detector
+[submodule "BiosignDetection/Examples/HeartRate/android-heart-rate-monitor"]
+	path = BiosignDetection/Examples/HeartRate/android-heart-rate-monitor
+	url = https://github.com/phishman3579/android-heart-rate-monitor
+[submodule "BiosignDetection/Examples/HeartRate/vbcg"]
+	path = BiosignDetection/Examples/HeartRate/vbcg
+	url = https://github.com/nspi/vbcg
+[submodule "BiosignDetection/Examples/HeartRate/pulse-detector"]
+	path = BiosignDetection/Examples/HeartRate/pulse-detector
+	url = https://github.com/melfm/pulse-detector
+[submodule "BiosignDetection/Examples/HeartRate/visual-pulse-monitor"]
+	path = BiosignDetection/Examples/HeartRate/visual-pulse-monitor
+	url = https://github.com/shelhamer/visual-pulse-monitor
+[submodule "BiosignDetection/Examples/HeartRate/heartbeat"]
+	path = BiosignDetection/Examples/HeartRate/heartbeat
+	url = https://github.com/prouast/heartbeat
+[submodule "BiosignDetection/Examples/HeartRate/Heart-rate-measurement-using-camera"]
+	path = BiosignDetection/Examples/HeartRate/Heart-rate-measurement-using-camera
+	url = https://github.com/habom2310/Heart-rate-measurement-using-camera
+[submodule "BiosignDetection/Examples/HeartRate/pulse"]
+	path = BiosignDetection/Examples/HeartRate/pulse
+	url = https://github.com/camilleanne/pulse
+[submodule "Books/Deep-Learning-for-Computer-Vision"]
+	path = Books/Deep-Learning-for-Computer-Vision
+	url = https://github.com/PacktPublishing/Deep-Learning-for-Computer-Vision
+[submodule "ObjectDetection/Libraries/jeelizAR"]
+	path = ObjectDetection/Libraries/jeelizAR
+	url = https://github.com/FXRer/jeelizAR
+[submodule "FacialRegconition/Libraries/jeelizFaceFilter"]
+	path = FacialRegconition/Libraries/jeelizFaceFilter
+	url = https://github.com/jeeliz/jeelizFaceFilter
+[submodule "ExpressionDetection/Libraries/jeelizWeboji"]
+	path = ExpressionDetection/Libraries/jeelizWeboji
+	url = https://github.com/jeeliz/jeelizWeboji
+[submodule "FacialRegconition/Libraries/jeelizPupillometry"]
+	path = FacialRegconition/Libraries/jeelizPupillometry
+	url = https://github.com/jeeliz/jeelizPupillometry
+[submodule "FacialRegconition/Libraries/jeelizGlanceTracker"]
+	path = FacialRegconition/Libraries/jeelizGlanceTracker
+	url = https://github.com/jeeliz/jeelizGlanceTracker
+[submodule "ObjectDetection/Libraries/ImageAI"]
+	path = ObjectDetection/Libraries/ImageAI
+	url = https://github.com/OlafenwaMoses/ImageAI
+[submodule "MachineLearning/DeepLearning/Examples/DeepLearningExamples"]
+	path = MachineLearning/DeepLearning/Examples/DeepLearningExamples
+	url = https://github.com/NVIDIA/DeepLearningExamples
+[submodule "VoiceRegconition/Examples/AlexaPi"]
+	path = VoiceRegconition/Examples/AlexaPi
+	url = https://github.com/novaspirit/AlexaPi.git
+[submodule "VoiceRegconition/Examples/Artificial-Intelligence-Pi"]
+	path = VoiceRegconition/Examples/Artificial-Intelligence-Pi
+	url = https://github.com/the-raspberry-pi-guy/Artificial-Intelligence-Pi
+[submodule "Books/beginning-artificial-intelligence-w-raspberry-pi"]
+	path = Books/beginning-artificial-intelligence-w-raspberry-pi
+	url = https://github.com/Apress/beg-artificial-intelligence-w-raspberry-pi
