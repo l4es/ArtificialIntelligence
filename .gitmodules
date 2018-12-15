@@ -42,7 +42,7 @@
 	url = https://github.com/PacktPublishing/Deep-Learning-for-Computer-Vision
 [submodule "ObjectDetection/Libraries/jeelizAR"]
 	path = ObjectDetection/Libraries/jeelizAR
-	url = https://github.com/FXRer/jeelizAR
+	url = https://github.com/jeeliz/jeelizAR
 [submodule "FacialRegconition/Libraries/jeelizFaceFilter"]
 	path = FacialRegconition/Libraries/jeelizFaceFilter
 	url = https://github.com/jeeliz/jeelizFaceFilter
