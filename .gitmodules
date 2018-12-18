@@ -118,3 +118,18 @@
 [submodule "FacialRegconition/Examples/facemoji"]
 	path = FacialRegconition/Examples/facemoji
 	url = https://github.com/PiotrDabrowskey/facemoji
+[submodule "ObjectDetection/Examples/simple_vehicle_counting"]
+	path = ObjectDetection/Examples/simple_vehicle_counting
+	url = https://github.com/andrewssobral/simple_vehicle_counting
+[submodule "ObjectDetection/Examples/OnlineDetector"]
+	path = ObjectDetection/Examples/OnlineDetector
+	url = https://github.com/tla001/OnlineDetector
+[submodule "ObjectDetection/Examples/object_detector_app"]
+	path = ObjectDetection/Examples/object_detector_app
+	url = https://github.com/datitran/object_detector_app
+[submodule "ObjectDetection/Examples/Object-detection"]
+	path = ObjectDetection/Examples/Object-detection
+	url = https://github.com/lbeaucourt/Object-detection
+[submodule "ObjectDetection/Libraries/openalpr"]
+	path = ObjectDetection/Libraries/openalpr
+	url = https://github.com/openalpr/openalpr
