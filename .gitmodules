@@ -160,3 +160,15 @@
 [submodule "PoseDetection/Libraries/caffe_train"]
 	path = PoseDetection/Libraries/caffe_train
 	url = https://github.com/CMU-Perceptual-Computing-Lab/caffe_train
+[submodule "ExpressionDetection/Examples/webcam-eyetracker"]
+	path = ExpressionDetection/Examples/webcam-eyetracker
+	url = https://github.com/esdalmaijer/webcam-eyetracker
+[submodule "ExpressionDetection/Examples/WebGazer"]
+	path = ExpressionDetection/Examples/WebGazer
+	url = https://github.com/brownhci/WebGazer
+[submodule "ExpressionDetection/Examples/webCamEmocognizer"]
+	path = ExpressionDetection/Examples/webCamEmocognizer
+	url = https://github.com/DeepInEvil/webCamEmocognizer
+[submodule "ExpressionDetection/Libraries/face-analysis-sdk"]
+	path = ExpressionDetection/Libraries/face-analysis-sdk
+	url = https://github.com/ci2cv/face-analysis-sdk
