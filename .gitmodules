@@ -136,3 +136,15 @@
 [submodule "ObjectDetection/Libraries/AlexeyAB-darknet"]
 	path = ObjectDetection/Libraries/AlexeyAB-darknet
 	url = https://github.com/AlexeyAB/darknet
+[submodule "Books/Hands-On-Artificial-Intelligence-for-Beginners"]
+	path = Books/Hands-On-Artificial-Intelligence-for-Beginners
+	url = https://github.com/PacktPublishing/Hands-On-Artificial-Intelligence-for-Beginners
+[submodule "Books/Python-Artificial-Intelligence-Projects-for-Beginners"]
+	path = Books/Python-Artificial-Intelligence-Projects-for-Beginners
+	url = https://github.com/PacktPublishing/Python-Artificial-Intelligence-Projects-for-Beginners
+[submodule "Books/python-ml-case-studies"]
+	path = Books/python-ml-case-studies
+	url = https://github.com/Apress/python-ml-case-studies
+[submodule "Books/practical-python-ai-projects"]
+	path = Books/practical-python-ai-projects
+	url = https://github.com/Apress/practical-python-ai-projects
