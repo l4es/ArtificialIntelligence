@@ -79,3 +79,6 @@
 [submodule "BiosignDetection/Examples/Respiration/realtimevideo"]
 	path = BiosignDetection/Examples/Respiration/realtimevideo
 	url = https://github.com/rohanraja/realtimevideo
+[submodule "Biometric-Identification/Libraries/openbr-models"]
+	path = Biometric-Identification/Libraries/openbr-models
+	url = https://github.com/biometrics/openbr-models
