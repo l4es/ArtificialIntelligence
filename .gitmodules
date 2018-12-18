@@ -82,3 +82,39 @@
 [submodule "Biometric-Identification/Libraries/openbr-models"]
 	path = Biometric-Identification/Libraries/openbr-models
 	url = https://github.com/biometrics/openbr-models
+[submodule "FacialRegconition/Examples/real_time_face_recognition"]
+	path = FacialRegconition/Examples/real_time_face_recognition
+	url = https://github.com/shanren7/real_time_face_recognition
+[submodule "FacialRegconition/Examples/Raspberry-Pi-Camera-Face-Detection-Python"]
+	path = FacialRegconition/Examples/Raspberry-Pi-Camera-Face-Detection-Python
+	url = https://github.com/AsankaD7/Raspberry-Pi-Camera-Face-Detection-Python
+[submodule "FacialRegconition/Examples/face-detection-node-opencv"]
+	path = FacialRegconition/Examples/face-detection-node-opencv
+	url = https://github.com/drejkim/face-detection-node-opencv
+[submodule "FacialRegconition/Examples/facerec"]
+	path = FacialRegconition/Examples/facerec
+	url = https://github.com/bytefish/facerec
+[submodule "FacialRegconition/Examples/flandmark"]
+	path = FacialRegconition/Examples/flandmark
+	url = https://github.com/uricamic/flandmark
+[submodule "FacialRegconition/Examples/Facial-Landmark-Detector"]
+	path = FacialRegconition/Examples/Facial-Landmark-Detector
+	url = https://github.com/Urviagrawal/Facial-Landmark-Detector
+[submodule "FacialRegconition/Examples/Webcam-Face-Detect"]
+	path = FacialRegconition/Examples/Webcam-Face-Detect
+	url = https://github.com/shantnu/Webcam-Face-Detect
+[submodule "FacialRegconition/Examples/face-alignment"]
+	path = FacialRegconition/Examples/face-alignment
+	url = https://github.com/1adrianb/face-alignment
+[submodule "FacialRegconition/Examples/OpenCV-Face-Recognition"]
+	path = FacialRegconition/Examples/OpenCV-Face-Recognition
+	url = https://github.com/Mjrovai/OpenCV-Face-Recognition
+[submodule "FacialRegconition/Examples/WebGazer"]
+	path = FacialRegconition/Examples/WebGazer
+	url = https://github.com/brownhci/WebGazer
+[submodule "FacialRegconition/Examples/face_recognition"]
+	path = FacialRegconition/Examples/face_recognition
+	url = https://github.com/ageitgey/face_recognition
+[submodule "FacialRegconition/Examples/facemoji"]
+	path = FacialRegconition/Examples/facemoji
+	url = https://github.com/PiotrDabrowskey/facemoji
