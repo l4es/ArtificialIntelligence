@@ -133,3 +133,6 @@
 [submodule "ObjectDetection/Libraries/openalpr"]
 	path = ObjectDetection/Libraries/openalpr
 	url = https://github.com/openalpr/openalpr
+[submodule "ObjectDetection/Libraries/AlexeyAB-darknet"]
+	path = ObjectDetection/Libraries/AlexeyAB-darknet
+	url = https://github.com/AlexeyAB/darknet
