@@ -73,3 +73,9 @@
 [submodule "MachineLearning/DeepLearning/awesome-emdl"]
 	path = MachineLearning/DeepLearning/awesome-emdl
 	url = https://github.com/EMDL/awesome-emdl
+[submodule "BiosignDetection/Examples/Respiration/respivision"]
+	path = BiosignDetection/Examples/Respiration/respivision
+	url = https://github.com/rohanraja/respivision
+[submodule "BiosignDetection/Examples/Respiration/realtimevideo"]
+	path = BiosignDetection/Examples/Respiration/realtimevideo
+	url = https://github.com/rohanraja/realtimevideo
