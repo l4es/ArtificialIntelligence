@@ -172,3 +172,6 @@
 [submodule "ExpressionDetection/Libraries/face-analysis-sdk"]
 	path = ExpressionDetection/Libraries/face-analysis-sdk
 	url = https://github.com/ci2cv/face-analysis-sdk
+[submodule "BiosignDetection/Examples/HeartRate/heartrate_analysis_python"]
+	path = BiosignDetection/Examples/HeartRate/heartrate_analysis_python
+	url = https://github.com/paulvangentcom/heartrate_analysis_python
