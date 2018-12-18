@@ -148,3 +148,15 @@
 [submodule "Books/practical-python-ai-projects"]
 	path = Books/practical-python-ai-projects
 	url = https://github.com/Apress/practical-python-ai-projects
+[submodule "PoseDetection/Libraries/openpose"]
+	path = PoseDetection/Libraries/openpose
+	url = https://github.com/CMU-Perceptual-Computing-Lab/openpose
+[submodule "PoseDetection/Examples/phormatics"]
+	path = PoseDetection/Examples/phormatics
+	url = https://github.com/jrobchin/phormatics
+[submodule "PoseDetection/Libraries/caffe_rtpose"]
+	path = PoseDetection/Libraries/caffe_rtpose
+	url = https://github.com/CMU-Perceptual-Computing-Lab/caffe_rtpose
+[submodule "PoseDetection/Libraries/caffe_train"]
+	path = PoseDetection/Libraries/caffe_train
+	url = https://github.com/CMU-Perceptual-Computing-Lab/caffe_train
